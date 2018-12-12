@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'That went out as quickly in its turn, and gradually grew into the ordinary.',
+      'That went out as quickly in its turn and gradually grew into the ordinary.',
   'example2':
       'Saddles may be divided pretty accurately into three classes.',
   'example3':
