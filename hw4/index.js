@@ -8,12 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'That went out as quickly in its turn, and gradually
-grew into the ordinary.',
+      'That went out as quickly in its turn, and gradually grew into the ordinary.',
   'example2':
       'Saddles may be divided pretty accurately into three classes.',
   'example3':
-      'Along the way, they encounter a beautiful young spy, named simply Milady, who will stop at nothing to disgrace Queen Anne of Austria before her husband, Louis XIII, and take her revenge upon the four friends.'      
+      'Along the way they encounter a beautiful young spy named simply Milady who will stop at nothing to disgrace Queen Anne of Austria before her husband Louis XIII and take her revenge upon the four friends'      
 };
 
 function status(statusText) {
